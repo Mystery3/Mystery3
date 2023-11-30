@@ -12,3 +12,5 @@ Hi I'm Mystery, or Flaps9562 on Discord. I'm currently a university student stud
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![VSCode](https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logo-color=ffffff&style=for-the-badge)](https://code.visualstudio.com/)
 
+### Contact
+Add me on Discord @Flaps9562 or join my releases server [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdnVtbhuhM)
