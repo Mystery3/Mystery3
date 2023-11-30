@@ -10,5 +10,5 @@ Hi I'm Mystery, or Flaps9562 on Discord. I'm currently a university student stud
 
 ### What I Use
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logo-color=ffffff&style=for-the-badge)](https://code.visualstudio.com/)
 
